@@ -32,7 +32,7 @@
             </div>
 
             <!-- Statistics Panel -->
-            <div class="panel panel-default" id="tables">
+            <div class="panel panel-default" id="stats-tables">
                 <div class="panel-heading">Statistics</div>
                 <div class="panel-body">
                     <div  class="col-lg-4">
@@ -47,7 +47,7 @@
             </div>
 
             <!-- Results Panel -->
-            <div class="panel panel-default" id="tables">
+            <div class="panel panel-default" id="results-tables">
                 <div class="panel-heading">Results</div>
                 <div class="panel-body">
                     <table id="tblResults" class="table table-hover">
