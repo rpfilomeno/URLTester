@@ -21,6 +21,13 @@
                         </span>
                         <input id="txtSearch" name="txtSearch" type="text" class="form-control" placeholder="Enter URL here" value="https://hcp.clevercapture.net">
                     </div><br>
+
+
+                    <div>
+                        <span>Number of Threads:</span>
+                        <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+                        <div id="slider-range-max"></div>
+                    </div>
                 </div>
             </div>
 
